@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.cards{
+    width: 8rem;
+    height: 7rem;
+    background-color: #ffe4e4;
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+    align-items: center;
+}
